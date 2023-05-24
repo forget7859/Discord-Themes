@@ -1,2 +1,2 @@
 # Discord-Themes
-Here i realse my own themes for discord PC app, hope you like it
+Here i release my own themes for BetterDiscord app, hope you like it.
